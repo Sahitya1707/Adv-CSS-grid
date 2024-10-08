@@ -1,0 +1,78 @@
+DESCRIPTION
+
+
+
+Design a single page that might serve as a template for a web site based on a fictitious company logo design of your choice from LogoPond (https://logopond.com/). Use CSS to apply colours, typography and a grid-based-layout that suits the company’s brand and colour scheme. Build your page using either CSS Grid, CSS Flexbox or a combination of both. The use of a pre-built template (paid or free) is strictly prohibited – all CSS and HTML must be your own.
+
+
+
+INSTRUCTIONS
+
+
+
+Select an interesting logo concept from the collection available at http://logopond.com/
+Devise a grid-based-layout that might serve as the primary landing page (or home page) for the above fictitious company.
+Construct the grid layout using either CSS Grid, CSS Flexbox, or a combination of both.
+Fill the layout template with suitable headings and greeked text (lorem ipsum or a suitable alternative) for body copy to simulate real content. Be sure to credit the designer of the logo or identity that you are using in some creative way.
+Focusing on the colour scheme used by the selected logo design, apply appropriate background colours, text colours and font families to the document using CSS.
+Your layout may be fixed-width, fluid and/or responsive – your choice.
+Exercise restraint when choosing a number of colours and fonts – remember that most often with good design, less is more.
+Upload your completed page to a Web server.
+Submit all your files and the URL to your work to this Assignment.
+Have fun.
+
+
+TAKE IT FURTHER
+
+
+
+
+Incorporate an interesting global navigation system with imaginary links to other sections of the Web site or application.
+Add some CSS Media Queries to serve up a slightly different grid-based layout, suitable to the user's device.
+Incorporate some of the best practices promoted by the HTML5 Boilerplate.
+Add some simple, but effective JavaScript or CSS-based interaction.
+Anything else you can think of to make the page more fun.
+
+
+SUBMITTING YOUR WORK
+
+
+
+Upload the HTML, CSS and any media files to a Web server and then post a URL to the document to this assignment directly. Please also upload a .zip archive that includes your HTML file(s), your CSS file(s) and any media assets.
+
+
+
+EVALUATION
+
+
+
+Please refer to the attached assessment rubric. You will be graded on how well you followed the assignment instructions from both a technical and a creative perspective as spelled out in the rubric.
+
+
+
+Modern And Abstract Boxer Sport Logo
+by ArtisticHorizons
+
+HTML and CSS is well-structured, well-formatted, well-organized, and effectively commented
+5 possible points (12.5%)
+
+CSS Grid and/or CSS Flexbox is implemented correctly and is applied in an effective manner
+5 possible points (12.5%)
+
+The grid-based layout is functional and it renders correctly in a variety of screen dimensions
+5 possible points (12.5%)
+
+There are other technical aspects of the assignment that go beyond what is required
+5 possible points (12.5%)
+
+The page features an imaginative and visually effective grid-based layout to arrange the interface components
+5 possible points (12.5%)
+
+A thoughtful variety of HTML elements are used to add structure and meaning to the content (good semantics)
+5 possible points (12.5%)
+
+Appropriate choices for both typography and colour schemes support the chosen logo and branding
+5 possible points (12.5%)
+
+There are other creative aspects of the assignment that go beyond what is required
+5 possible points (12.5%)
