@@ -36,6 +36,7 @@ nav {
 }
 .nav-item {
   padding: 10px 20px;
+  cursor: pointer;
   margin: 10px 0;
   background-color: var(--light-primary-clr);
 
@@ -61,7 +62,7 @@ nav {
 /* styling main
  */
 main {
-  margin: 0 auto;
+  margin: 1rem auto;
   width: 80%;
   margin-top: 1rem;
 }

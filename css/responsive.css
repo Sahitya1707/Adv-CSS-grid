@@ -1,0 +1,158 @@
+@media only screen and (max-width: 1950px) {
+  .nav {
+    z-index: 3;
+  }
+  .nav {
+    right: -10%;
+  }
+  .description {
+    width: 45rem;
+    font-size: 0.8rem;
+  }
+  .description::after {
+    top: 7%;
+  }
+  .description h1 {
+    font-size: 1.5rem;
+  }
+  .logo-container {
+    position: relative;
+    height: 12rem;
+    width: 12rem;
+  }
+  .other-section {
+    margin-top: 3rem;
+  }
+  .other-section div:nth-of-type(1),
+  .other-section div:nth-of-type(2),
+  .other-section div:nth-of-type(3),
+  .logo-credit {
+    font-size: 0.9rem;
+  }
+}
+@media only screen and (max-width: 1410px) {
+  body {
+    width: 100vw;
+    height: auto;
+    overflow: visible;
+  }
+  main {
+    width: 95%;
+    padding: 1rem;
+  }
+  .nav {
+    right: -15%;
+  }
+  .other-section {
+    flex-wrap: wrap;
+
+    padding: 0;
+  }
+
+  .other-section div:nth-of-type(1),
+  .other-section div:nth-of-type(2) {
+    height: 8rem;
+    border-bottom: 2px solid var(--black-clr);
+    width: 50%;
+  }
+  .other-section div:nth-of-type(3) {
+    height: auto;
+  }
+}
+@media only screen and (max-width: 1110px) {
+  .nav {
+    right: -22%;
+  }
+  .description {
+    order: 3;
+    grid-column: 1 / span 2;
+    grid-row: none;
+    width: 100%;
+  }
+  .logo-container {
+    order: 1;
+    width: 15rem;
+    height: 15rem;
+    justify-self: flex-end;
+  }
+  .logo-credit {
+    order: 2;
+    width: 15rem;
+    align-self: auto;
+    order: 2;
+    justify-self: flex-start;
+    font-size: 1.2rem;
+    height: 10rem;
+  }
+  .logo-container,
+  .logo-credit {
+  }
+  .logo-container::after {
+    content: none;
+  }
+
+  .logo-credit span {
+    -webkit-text-stroke: 1px var(--primary-clr);
+    color: transparent;
+    letter-spacing: 2px;
+  }
+  .description::after {
+    content: none;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .nav {
+    top: 0%;
+    right: -25%;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .nav {
+    right: -30%;
+  }
+}
+@media only screen and (max-width: 560px) {
+  .nav {
+    right: -35%;
+  }
+  .logo-container::before {
+    content: none;
+  }
+  .logo-container {
+    width: 10rem;
+    height: 10rem;
+  }
+  .logo-credit {
+    font-size: 0.9rem;
+    width: 11rem;
+  }
+  .description h1 {
+    font-size: 1.2rem;
+  }
+  .description p {
+    font-size: 0.8rem;
+  }
+  .other-section {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .other-section div:nth-child(1) {
+    width: 100%;
+
+    order: 2;
+  }
+  .other-section div:nth-child(2) {
+    width: 100%;
+    order: 1;
+  }
+  .other-section div:nth-child(3) {
+    order: 3;
+  }
+  .other-section div:nth-child(1),
+  .other-section div:nth-child(2),
+  .other-section div:nth-child(3) {
+    border: 1px solid white;
+    border-radius: 10px;
+  }
+}
